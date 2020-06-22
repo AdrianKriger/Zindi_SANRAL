@@ -9,7 +9,7 @@ We start with Machine Learning; but I'm on the [fastai](https://course.fast.ai/)
 
 ### Data
 
-These solutions use the data provided by the [Zindi competition](https://zindi.africa/competitions/uber-movement-sanral-cape-town-challenge/data). It's local and a wonderful way to create knowledge.
+These solutions use the data provided by the [Zindi competition](https://zindi.africa/competitions/uber-movement-sanral-cape-town-challenge/data). It's local (City of Cape Town, South Africa) and a wonderful way to create knowledge.
  
 It mentions weather data can be added. I'll use [NOAA NCDC Integrated Surface Data](https://www.ncdc.noaa.gov/isd); to utilize the skills learnt through the [Universtity of Helsinki](https://www.helsinki.fi/en) [Geo-Python](https://geo-python.github.io/site/) and [Automating GIS-processes](https://automating-gis-processes.github.io/site/) courses. 
    

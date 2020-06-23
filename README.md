@@ -5,9 +5,9 @@ I happened upon the Uber Movement SANRAL Cape Town Challenge on [Zindi](https://
 
 The idea is to have a number of ```notebooks```. We'll start with simple data manipulation and building a Machine Learning ```model```. Then we'll harvest weather data and include that. Car count and travel time will be included as we go along. 
 
-We start with Machine Learning; but I'm on the [fastai](https://course.fast.ai/) course and I'd like to give their ```tabular``` method a try: so the intension is to end with that.  
+We start with Machine Learning; but I'm on the [fastai](https://course.fast.ai/) course and I'd like to give their ```tabular``` method a try: so the intention is to end with that.  
 
-Anticipating an increase in file size, and the inability of a laptop to process massive ```csv``` files, I'll run the entire process through [Colab](https://colab.research.google.com/notebooks/intro.ipynb); with files on [Google Drive](https://www.google.com/drive/). The 12GB of of free ```RAM``` should be enough - best practice suggest only using it when neccessary and terminating the session before exit. ```code``` to load GDrive as a filesystem are in the ```notebooks```.
+Anticipating an increase in file size, and the inability of a laptop to process massive ```csv``` files, I'll run the entire process through [Colab](https://colab.research.google.com/notebooks/intro.ipynb); with files on [Google Drive](https://www.google.com/drive/). The 12GB of of free ```RAM``` should be enough - best practice suggest only using the GPU when neccessary and terminating the session before exit. ```code``` to load GDrive as a filesystem are in the ```notebooks```.
 
 ### Data
 

@@ -13,7 +13,7 @@ Anticipating an increase in file size, and the inability of a laptop to process 
 
 These solutions use the data provided by the [Zindi competition](https://zindi.africa/competitions/uber-movement-sanral-cape-town-challenge/data). It's local (City of Cape Town, South Africa) and a wonderful way to create knowledge.
  
-It mentions weather data can be added. I'll use [NOAA NCDC Integrated Surface Data](https://www.ncdc.noaa.gov/isd); to utilize the skills learnt through the [Universtity of Helsinki](https://www.helsinki.fi/en) [Geo-Python](https://geo-python.github.io/site/) and [Automating GIS-processes](https://automating-gis-processes.github.io/site/) courses. 
+It mentions weather data can be added. The plan is to use [NOAA NCDC Integrated Surface Data](https://www.ncdc.noaa.gov/isd); and utilize the skills learnt through the [Universtity of Helsinki](https://www.helsinki.fi/en) [Geo-Python](https://geo-python.github.io/site/) and [Automating GIS-processes](https://automating-gis-processes.github.io/site/) courses. 
    
 ### Process:
 

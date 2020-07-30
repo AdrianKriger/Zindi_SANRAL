@@ -22,8 +22,8 @@ There will hopefully be two solutions: A [xgboost](https://xgboost.readthedocs.i
     Process:
 
        1) Wrangle data, run a simple model and make predictions;
-       2) Harvest and add weather, update predictions;
-       3) Deal with alpha-numeric columns;
+       2) Harvest and add weather;
+       3) Preliminary Tuning and update prediction;
        4) Harvest car count and repeat;
        5) Include travel time and repeat;
        6) Give fastai a go.

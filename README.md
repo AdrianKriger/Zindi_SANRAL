@@ -25,5 +25,5 @@ There will hopefully be two solutions: A [xgboost](https://xgboost.readthedocs.i
        2) Harvest and add weather;
        3) Preliminary Tuning and update prediction;
        4) Harvest car count and repeat;
-       5) Include travel time and repeat;
-       6) Give fastai a go.
+       5) Give fastai a go;
+       6) Include travel time (to do).
